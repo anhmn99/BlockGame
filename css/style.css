@@ -22,6 +22,159 @@ h1 {
   display: inline-block;
 }
 
-.last-block {
+.row-last-block {
   border-right: none;
+}
+
+#game-stats {
+  display: inline-block;
+  background-color: blue;
+  /* margin-bottom: 200px; */
+}
+
+/* T PIECE */
+.t-piece {
+  background-color: purple;
+}
+
+#block15 {
+  background-color: purple;
+}
+
+#block24 {
+  background-color: purple;
+}
+
+#block25 {
+  background-color: purple;
+}
+
+#block26 {
+  background-color: purple;
+}
+
+/* I PIECE */
+.i-piece {
+  background-color: cyan;
+}
+
+#block43 {
+  background-color: cyan;
+}
+
+#block44 {
+  background-color: cyan;
+}
+
+#block45 {
+  background-color: cyan;
+}
+
+#block46 {
+  background-color: cyan;
+}
+
+/* O PIECE */
+.o-piece {
+  background-color: yellow;
+}
+
+#block64 {
+  background-color: yellow;
+}
+
+#block65 {
+  background-color: yellow;
+}
+
+#block74 {
+  background-color: yellow;
+}
+
+#block75 {
+  background-color: yellow;
+}
+
+/* Z PIECE */
+.z-piece {
+  background-color: red;
+}
+
+#block94 {
+  background-color: red;
+}
+
+#block95 {
+  background-color: red;
+}
+
+#block105 {
+  background-color: red;
+}
+
+#block106 {
+  background-color: red;
+}
+
+/* S PIECE */
+.s-piece {
+  background-color: green;
+}
+
+#block125 {
+  background-color: green;
+}
+
+#block126 {
+  background-color: green;
+}
+
+#block135 {
+  background-color: green;
+}
+
+#block134 {
+  background-color: green;
+}
+
+/* L PIECE */
+.l-piece {
+  background-color: blue;
+}
+
+#block152 {
+  background-color: blue;
+}
+
+#block153 {
+  background-color: blue;
+}
+
+#block162 {
+  background-color: blue;
+}
+
+#block172 {
+  background-color: blue;
+}
+
+/* J PIECE */
+.j-piece {
+  background-color: orange;
+}
+
+#block157 {
+  background-color: orange;
+}
+
+#block156 {
+  background-color: orange;
+}
+
+#block167 {
+  background-color: orange;
+}
+
+#block177 {
+  background-color: orange;
 }
