@@ -74,8 +74,8 @@ class StandardGameState {
         // Same kind of randomness as in CLRS book
         let order = [0, 1, 2, 3, 4, 5, 6];
         for (let i = 0; i < 7; i++) {
-            rand = floor(Math.random() * (7-i));
-            temp = order[rand];
+            let rand = Math.floor(Math.random() * (7-i));
+            let temp = order[rand];
             order[rand] = order[i];
             order[i] = temp;
         }
