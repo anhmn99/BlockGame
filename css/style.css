@@ -1,0 +1,27 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+#matrix {
+  display: inline-block;
+}
+
+/* .matrix-row {
+  border-bottom: 2px solid black;
+} */
+
+.last-row {
+  border-bottom: none;
+}
+
+.matrix-block {
+  display: inline-block;
+}
+
+.last-block {
+  border-right: none;
+}
